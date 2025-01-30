@@ -1,0 +1,6 @@
+@ABCIgnite_HostAddress = http://localhost:5101
+
+GET {{ABCIgnite_HostAddress}}
+Accept: application/json
+
+###
